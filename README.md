@@ -9,7 +9,7 @@ This project demonstrates the implementation of **Multiple Linear Regression** u
 - Evaluation using R² Score, MAE, and MSE
 
 ## 🗂️ Project Structure
-- `MultipleLinearRegImplementation-3.ipynb`: Main Jupyter notebook containing code, analysis, and outputs.
+- `MultipleLinearRegImplementation-3.py`: Main Jupyter notebook containing code, analysis, and outputs.
 
 ## 🛠️ Technologies Used
 - Python
